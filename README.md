@@ -4,23 +4,13 @@
 
 ## Links para inspirações
 
-identicon
-http://identicon.net/
+identicon [http://identicon.net/](http://identicon.net/)
+jdenticon [https://jdenticon.com/](https://jdenticon.com/)
+robohash [https://robohash.org/](https://robohash.org/)
+minidenticons [https://laurentpayot.github.io/minidenticons/](https://laurentpayot.github.io/minidenticons/)
+boringavatars [https://boringavatars.com/](https://boringavatars.com/)
+icotar [https://icotar.com/](https://icotar.com/)
 
-jdenticon
-https://jdenticon.com/
-
-robohash
-https://robohash.org/
-
-minidenticons
-https://laurentpayot.github.io/minidenticons/
-
-boringavatars
-https://boringavatars.com/
-
-icotar
-https://icotar.com/
 
 multiavatar
 https://pub.dev/packages/multiavatar
