@@ -2,6 +2,11 @@
 
 ## Atividade A3
 
+por enquanto acessar: [https://github.com/mmamorim/svguid](https://github.com/mmamorim/svguid)
+
+#### Sobre a entrega
+em breve...
+
 ## Links para inspirações
 
 identicon [http://identicon.net/](http://identicon.net/)
