@@ -4,7 +4,7 @@
 
 ## Links para inspirações
 
-identicon [http://identicon.net/](http://identicon.net/){:target="_blank"}
+identicon [http://identicon.net/](http://identicon.net/)
 jdenticon [https://jdenticon.com/](https://jdenticon.com/)
 robohash [https://robohash.org/](https://robohash.org/)
 minidenticons [https://laurentpayot.github.io/minidenticons/](https://laurentpayot.github.io/minidenticons/)
