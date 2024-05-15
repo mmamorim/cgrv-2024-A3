@@ -6,7 +6,7 @@ por enquanto acessar: [https://github.com/mmamorim/svguid](https://github.com/mm
 
 ### Grupos A3 - 2024/01 - USJT - **SANTANA**
 
-Formulário: [https://forms.gle/fzWZHywwae8MBMAm8](indicar grupo)
+Formulário: [indicar grupo](https://forms.gle/fzWZHywwae8MBMAm8)
 
 #### Sobre a entrega
 em breve...
