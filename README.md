@@ -1,8 +1,12 @@
 # Computação gráfica e realidade virtual - 2024
 
-## Atividade A3
+## Projeto A3
 
 por enquanto acessar: [https://github.com/mmamorim/svguid](https://github.com/mmamorim/svguid)
+
+### Grupos A3 - 2024/01 - USJT - **SANTANA**
+
+Formulário: [https://forms.gle/fzWZHywwae8MBMAm8](indicar grupo)
 
 #### Sobre a entrega
 em breve...
