@@ -8,6 +8,11 @@ por enquanto acessar: [https://github.com/mmamorim/svguid](https://github.com/mm
 
 Formulário: [indicar grupo](https://forms.gle/fzWZHywwae8MBMAm8)
 
+### Grupos A3 - 2024/01 - USJT - **MOOCA**
+
+Formulário: [indicar grupo](https://forms.gle/qCW8ywjzTkC4UpC29)
+
+
 #### Sobre a entrega
 em breve...
 
