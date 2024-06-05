@@ -2,7 +2,7 @@
 
 ## Projeto A3
 
-Acessar: [https://github.com/mmamorim/svguid](https://github.com/mmamorim/svguid)
+Criar um avatar a partir do projeto (repositório) svguid: [https://github.com/mmamorim/svguid](https://github.com/mmamorim/svguid)
 
 
 ## ENTREGA A3 - TURMA (quarta-feira) - **SANTANA**
