@@ -2,7 +2,15 @@
 
 ## Projeto A3
 
-por enquanto acessar: [https://github.com/mmamorim/svguid](https://github.com/mmamorim/svguid)
+Acessar: [https://github.com/mmamorim/svguid](https://github.com/mmamorim/svguid)
+
+
+## ENTREGA A3 - TURMA (quarta-feira) - **SANTANA**
+
+Um dos integrantes de cada grupo deve criar um repositório no Github contento o clone do repositório [https://github.com/mmamorim/svguid](https://github.com/mmamorim/svguid) com as alterações de código para gerar o avatar.
+
+Apenas um integrante deve preencher o formulário [entrega](https://forms.gle/2LW1JcznUFgYMrF78) indicando RA, NOME COMPLETO dos integrantes e LINK DO GITHUB.  
+
 
 ### Grupos A3 - 2024/01 - USJT - **SANTANA**
 
