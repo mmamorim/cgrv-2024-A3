@@ -21,9 +21,6 @@ Formulário: [indicar grupo](https://forms.gle/fzWZHywwae8MBMAm8)
 Formulário: [indicar grupo](https://forms.gle/qCW8ywjzTkC4UpC29)
 
 
-#### Sobre a entrega
-em breve...
-
 ## Links para inspirações
 
 identicon [http://identicon.net/](http://identicon.net/)
