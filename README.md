@@ -1,31 +1,20 @@
-# Computação gráfica e realidade virtual - 2024
+# Computação gráfica e realidade virtual - 2024 - 2
 
 ## Projeto A3
 
 Criar um avatar a partir do projeto (repositório) svguid: [https://github.com/mmamorim/svguid](https://github.com/mmamorim/svguid)
 
 
-## ENTREGA A3 - TURMA (quarta-feira) - **SANTANA**
-
-Um dos integrantes de cada grupo deve criar um repositório no Github contento o clone do repositório [https://github.com/mmamorim/svguid](https://github.com/mmamorim/svguid) com as alterações de código para gerar o avatar.
-
-Apenas um integrante deve preencher o formulário [entrega](https://forms.gle/2LW1JcznUFgYMrF78) indicando RA, NOME COMPLETO dos integrantes e LINK DO GITHUB.  
-
-## ENTREGA A3 - TURMA (quinta-feira) - **MOOCA**
+## ENTREGA A3 - TURMA (sexta-feira) - **VILA LEOPOLDINA**
 
 Um dos integrantes de cada grupo deve criar um repositório no Github contento o clone do repositório [https://github.com/mmamorim/svguid](https://github.com/mmamorim/svguid) com as alterações de código para gerar o avatar.
 
 Apenas um integrante deve enviar a [entrega](https://classroom.google.com/c/NjU1OTczMzk1Mjk4/a/NjgyNDE5MTMzNzE5/details) pelo classroom indicando RA, NOME COMPLETO dos integrantes e LINK DO GITHUB.  
 
 
-### Grupos A3 - 2024/01 - USJT - **SANTANA**
+### Grupos A3 - 2024/01 - USJT - **VILA LEOPOLDINA**
 
-Formulário: [indicar grupo](https://forms.gle/fzWZHywwae8MBMAm8)
-
-### Grupos A3 - 2024/01 - USJT - **MOOCA**
-
-Formulário: [indicar grupo](https://forms.gle/qCW8ywjzTkC4UpC29)
-
+Formulário: [indicar grupo](https://classroom.google.com/c/NzA4MTI4NDkxOTIw/a/NzE5Mzc3Nzg0MTQ1/details)
 
 ## Links para inspirações
 
